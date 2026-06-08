@@ -19,4 +19,4 @@ My main languages are TypeScript, C++, and C, and I often work with React, Vite,
 
 I'm especially interested in web development and competitive programming.
 
-![Tech Stack](https://skillicons.dev/icons?i=typescript,react,vite,firebase,cloudflare,tailwind,cpp,c,figma,github,blender)
+![Tech Stack](https://skillicons.dev/icons?i=typescript,react,vite,firebase,cloudflare,tailwind,cpp,c,arduino,vscode,figma,ai,github,blender)
