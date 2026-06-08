@@ -8,4 +8,4 @@
   </a>
 </p>
 
-![Tech Stack](https://skillicons.dev/icons?i=typescript,react,vite,firebase,cloudflare,tailwind,cpp,c)
+![Tech Stack](https://skillicons.dev/icons?i=typescript,react,vite,firebase,cloudflare,tailwind,cpp,c,figma,github,blender)
