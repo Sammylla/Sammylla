@@ -10,5 +10,5 @@
 
 ![Tech Stack](https://skillicons.dev/icons?i=js,typescript,react,nodejs,python,docker)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Sammylla=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sammylla&show_icons=true&theme=transparent)
 
